@@ -15,14 +15,14 @@
 //    }
 //
 //    public String getNom() {
-//        return Personnage.nomPerso;
+//        return this.nomPerso;
 //    }
 //
 //    public String getJob() {
-//        return Personnage.job;
+//        return this.job;
 //    }
 //
 //    public int getNiveau() {
-//        return Personnage.niveau;
+//        return this.niveau;
 //    }
 //}
